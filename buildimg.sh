@@ -44,7 +44,7 @@ case "$board" in
 esac
 
 if [[  "$board" == "bpi-r4" ]]; then
-	kernel="6.12"
+	kernel="6.13-rc"
 	echo "replacehostapd=1" >> sourcefiles_${board}.conf
 fi
 
