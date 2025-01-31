@@ -7,6 +7,8 @@ cd BPI-Router-Images
 chmod +x ./go.sh
 ./go.sh
 
+cp sourcefiles_board.conf sourcefiles_bpi-r4.conf
+
 ./buildimg.sh bpi-r4 bookworm
 ```
 
