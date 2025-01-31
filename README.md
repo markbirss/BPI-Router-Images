@@ -4,6 +4,9 @@
 git clone -b gdrive-test https://github.com/markbirss/BPI-Router-Images
 cd BPI-Router-Images
 
+chmod +x ./go.sh
+./go.sh
+
 ./buildimg.sh bpi-r4 bookworm
 ```
 
