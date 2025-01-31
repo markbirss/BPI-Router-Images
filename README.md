@@ -1,15 +1,5 @@
 # BPI-Router-Images
 
-```
-git clone -b gdrive-test https://github.com/markbirss/BPI-Router-Images
-cd BPI-Router-Images
-
-./buildimg.sh bpi-r4 bookworm
-```
-
-[www]
-https://forum.banana-pi.org/t/bpi-r4-sd-debian-bookworm-bullseye-images-on-kernel-6-8-0-dango/17487/12
-
 ## examples:
 
 ```sh
